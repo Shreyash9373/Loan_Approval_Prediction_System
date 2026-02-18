@@ -90,7 +90,7 @@ README.md              # Project documentation
 ▶️ How to Run the Project
 
 Clone the repository:
-git clone https://github.com/Shreyash9373/Loan_Approval_Intelligent_System.git
+git clone https://github.com/Shreyash9373/Loan_Approval_Prediction_System.git
 Navigate to the project directory:
 cd your-repository-name
 Install required dependencies:
